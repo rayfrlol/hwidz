@@ -2,7 +2,7 @@
   "whitelist": [
     "BFEBFBFF000806C1",
     "178BFBFF00A20F12",
-    "345354"
+    "BFEBFBFF000A0671"
   ],
   "blacklist": [
     "34",
@@ -10,4 +10,5 @@
     "345345345345"
   ]
 }
+
 
